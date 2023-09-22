@@ -7,7 +7,6 @@ subtitle: |
   [{{< fa brands github >}} Source]({{< var source >}})
   
   {{< var license-badge >}}
-  {{< var doi-badge >}}
 date: 09/25/23
 ---
 
@@ -49,8 +48,163 @@ date: 09/25/23
 
 :::
 
+## Agenda
 
-## Thank you! :pray:
+1. Background & status quo
+1. Castellum at UHH
+1. Discussion & open questions
+
+# Background
+
+## The Faculty of Psychology and Human Movement Science
+
+:::: columns
+::: {.column width="60%"}
+::: {.fragment}
+<details>
+<summary>Institute of Psychology: 13 professorships</summary>
+- General Psychology
+- Industrial/Organizational Psychology
+- Biological Psychology & Neuropsychology
+- Differential Psychology & Psychological Assessment
+- Developmental Psychology
+- Clinical Psychology & Psychotherapy
+- Clinical Neuroscience
+- Cognitive Psychology
+- Educational Psychology & Personality Development
+- Psychology with focus on Quantitative Methods
+- Mechanisms of Learning & Change ({{< fa house-user >}})
+- Research Methods & Statistics
+- Social Psychology
+</details>
+
+<details>
+<summary>Institute of Human Movement Science: 6 professorships</summary>
+- Physical Education and Sports Pedagogy
+- Human Movement and Training Science
+- Health Sciences
+- Culture, Media and Society
+- Sport and Exercise Medicine
+- Theory and Practice of Exercise fields
+</details>
+:::
+
+::: {.incremental}
+- Institute of Psychology: 11 of 13 groups *regularly* conduct studies with human participants
+- Diverse **participants groups**: All age groups (including children), "special" groups (e.g., with congenital blindness, psychiatric disorders, etc.)
+- Diverse **experimental settings**: In-lab behavioral, groups, online, observational, MRI, EEG, fNIRS, etc.
+
+:::
+:::
+
+::: {.column width="40%"}
+![[Source: UHH | Baumann](https://assets.rrz.uni-hamburg.de/instance_assets/fakws/8339594/01-vmp5-2-733x414-e47907398e84a6ac96db292ad74f72d9132b95f9.jpg)](images/vmp5.jpg)
+:::
+::::
+
+::: {.notes}
+- 2200+ students (BSc & MSc in Psychology / Human Movement Science + Teaching degrees)
+:::
+
+---
+
+## Current participant databases
+
+::: {.fragment}
+### The status quo
+
+At the Institute of Psychology ...
+
+::: {.incremental}
+- 4 (of 11) groups have a participant database 
+  - mostly used for "special" participant groups (children, participants with blindness or psychiatric disorders, etc.)
+  - paper- or Excel-based with limited access by a few group members
+  - Developmental Psychology group receives contact details from the Resident's Registration Office
+  - various issues & concerns regarding the integration with Castellum (see discussion)
+- Everyone else: ad-hoc recruitment via [SONA]({{< var links.sona >}}), [Stellenwerk]({{< var links.stellenwerk >}}), [Prolific]({{< var links.prolific >}}) (online studies only) or advertisement on campus
+:::
+
+:::
+
+::: {.fragment}
+### The goal
+
+#### Excerpt from the [Digital Strategy]({{< var links.digital-strategy >}}) of the Faculty of Psychology and Human Movement Science (2022):
+
+> "*We optimize the digital recruitment of study participants.
+We have **access to a broad participant database** or platform through which participants can be **recruited according to specific criteria**.
+We **clarify the requirements** for a platform for online studies, **evaluate alternative systems** and take care of the **technical integration**.*"<br>
+:::
+
+# Castellum at UHH
+
+## How it started ...
+
+:::: columns
+::: {.column width="60%"}
+::: {.fragment}
+- New group: *"We will need a participant database."*
+- Other groups: *"Oh, we actually also need a participant database."*
+- Admin: *"Great, this is part of our Digital Strategy, let's do it!"*
+:::
+::: {.incremental}
+- Query interest / needs / demands from all stakeholders
+- Understand current practices and existing solutions
+- Discussions in faculty meetings and university hallways
+- Initial consultations with data protection officer
+:::
+::: {.fragment}
+Eventually: First meeting about Castellum in December 2022 :sparkles:
+:::
+:::
+::: {.column width="40%"}
+![[Computer in Orange County offices, 1967 (CC BY 2.0) ](https://commons.wikimedia.org/wiki/File:Computer_in_County_of_Orange_offices,_1967.jpg)](images/computer-orange-county.jpg)
+:::
+::::
+
+## How it's going ...
+
+::: {.fragment}
+### Castellum Task Force
+:::
+::: {.incremental}
+- {{< fa user-group >}} 10 active members (8 scientific staff (4 PhDs, 3 PostDocs, 1 PI), 2 IT staff)
+- {{< fa user-shield >}} On-going consultations with data protection officer
+- {{< fa comment-dots regular >}} **Meetings** for discussion & exchange (hybrid, monthly)
+- {{< fa display >}} **Project website** for documentation (see next slide)
+- {{< fa server >}} **Test installation** of Castellum on UHH servers
+- {{< fa envelopes-bulk >}} **Mailing list** for announcements
+- {{< fa brands slack regular >}} **Chat** for detailed internal communication
+- {{< fa file-lines regular >}} **Shared docs** to prepare whitepaper, internal documentation, etc.
+
+::: {.fragment}
+### Tasks (non-exhaustive list)
+::: {.incremental}
+- {{< fa square-check regular >}} Identified needs, concerns, expectations, ...
+- {{< fa square-check regular >}} Familiarized with Castellum using test installation
+- {{< fa square-minus regular >}} Distribute sub-tasks, collect and discuss insights
+- {{< fa square regular >}} Create user agreement, prepare data protection whitepaper, etc.
+- {{< fa square regular >}} Compliance with requirements by data protection officer
+- {{< fa square regular >}} Finalize implementation of automated sign-ups, bulk-upload of existing databases
+:::
+:::
+:::
+
+## Project Website
+
+{{< fa display >}} [{{< var links.castellum-uhh-website >}}]({{< var links.castellum-uhh-website >}}) (in German only)<br>
+{{< fa brands github >}} [{{< var links.castellum-uhh-github >}}]({{< var links.castellum-uhh-github >}})
+
+```{=html}
+<iframe width="100%" height="74%" src="{{< var links.castellum-uhh-website >}}" title="Castellum UHH Website"></iframe>
+```
+
+::: {.notes}
+- Collect information about the project in a central place
+- Access to meeting notes, timetable, contact details of task force members
+:::
+
+## Thank you!
 
 :::: {.columns}
 ::: {.column width="35%"}

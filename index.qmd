@@ -275,7 +275,6 @@ Eventually: First meeting about Castellum in December 2022 :sparkles:
 - Inform *all* faculty members early and in detail
 - Have IT on board
 - Aim for implementation (or at least documentation) not (only) discussion
-- Somebody's gotta do it
 :::
 
 ## Thank you!

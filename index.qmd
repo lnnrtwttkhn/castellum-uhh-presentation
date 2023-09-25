@@ -50,9 +50,9 @@ date: 09/25/23
 
 ## Agenda
 
-1. Background & status quo
+1. Background
 1. Castellum at UHH
-1. Discussion & open questions
+1. Discussion
 
 # Background
 
@@ -220,7 +220,7 @@ Eventually: First meeting about Castellum in December 2022 :sparkles:
 
 ![](images/tasks-spreadsheet.png)
 
-# Discussion & open questions
+# Discussion
 
 ## Challenges for the task force
 
@@ -241,29 +241,16 @@ Eventually: First meeting about Castellum in December 2022 :sparkles:
 - embrace (the idea of) open-source
 :::
 
-## Discussion questions
-
-#### Integration of existing participant databases
-
-- took time and effort to build participant database
-- freeriders
-- worry that participants are going to be contacted too frequently
-- worries around legal aspects and data-privacy
-- we have a working solution, what's our benefit of investing in some 
-- investing into a collective resource
-unclear if participant consent allows transfer to Castellum
-  - (partly) hesitancy to share participant databases
-
-## Integration with SONA
-
-battle against alternatives
-
-- prolific, SONA
-
-![https://www.sona-systems.com/](images/sona-systems.jpg)
+## Example: Integration of existing participant databases and access
 
 ::: {.incremental}
-- limited to young, healthy participants (student population)
+- It took time and effort to build current participant database
+- Worries about free-riders
+- Worries that precious participants are going to be contacted too frequently
+  - How can access to certain participant groups be reserved for certain research groups?
+- Worries about legal aspects and data-privacy ("*Can we even share contact details from our existing database?*")
+- Unclear if participant consent allows transfer to Castellum
+- *"We have a working solution. What's our benefit of investing into Castellum?"*
 :::
 
 ## Summary
@@ -285,7 +272,7 @@ battle against alternatives
 - Inform *all* faculty members early and in detail
 - Have IT on board
 - Aim for implementation (or at least documentation) not (only) discussion
-- Someone's gotta do it
+- Somebody's gotta do it
 :::
 
 ## Thank you!
@@ -326,14 +313,13 @@ battle against alternatives
 
 ::: {.column width="65%"}
 
-:computer: **Slides:** [{{< var website >}}]({{< var website >}})
+### Slides
 
-:package: **Software:** Slides built with [Quarto](https://quarto.org/), [GitHub Pages](https://pages.github.com/) & [GitHub Actions](https://github.com/features/actions)
+:computer: **Slides:** [{{< var website >}}]({{< var website >}})
 
 {{< fa brands github >}} **Source:** [{{< var source >}}]({{< var source >}})
 
-:trackball: **DOI:** [10.5281/zenodo.8296951 ](https://zenodo.org/badge/latestdoi/682015737)
-{{< fa scale-balanced >}} **License:** {{< var license-long >}}
+:package: **Software:** Slides built with [Quarto](https://quarto.org/), [GitHub Pages](https://pages.github.com/) & [GitHub Actions](https://github.com/features/actions)
 
 :speech_balloon: **Contact:** I welcome any feedback via [email]({{< var mailto >}}) or [GitHub issues]({{< var issues >}}).
 Thank you!
@@ -384,3 +370,15 @@ Thank you!
 - Clarify how Castellum can be linked with **SONA**
 - Create documentation on **how to integrate external applications** with Castellum
 - Clarify how to **exclude participants** who have already participated via another platform (e.g. SONA)
+
+## Integration with SONA
+
+battle against alternatives
+
+- prolific, SONA
+
+![https://www.sona-systems.com/](images/sona-systems.jpg)
+
+::: {.incremental}
+- limited to young, healthy participants (student population)
+:::

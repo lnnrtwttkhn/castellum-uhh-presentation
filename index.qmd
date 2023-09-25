@@ -7,7 +7,6 @@ subtitle: |
   [{{< fa brands github >}} Source]({{< var source >}})
   
   {{< var license-badge >}}
-  {{< var doi-badge >}}
 date: 09/25/23
 ---
 
@@ -49,13 +48,261 @@ date: 09/25/23
 
 :::
 
+## Agenda
 
-## Thank you! :pray:
+1. Background
+1. Castellum at UHH
+1. Discussion
+
+# Background
+
+## The Faculty of Psychology and Human Movement Science
+
+:::: columns
+::: {.column width="60%"}
+::: {.fragment}
+<details>
+<summary>Institute of Psychology: 13 professorships</summary>
+- General Psychology
+- Industrial/Organizational Psychology
+- Biological Psychology & Neuropsychology
+- Differential Psychology & Psychological Assessment
+- Developmental Psychology
+- Clinical Psychology & Psychotherapy
+- Clinical Neuroscience
+- Cognitive Psychology
+- Educational Psychology & Personality Development
+- Psychology with focus on Quantitative Methods
+- Mechanisms of Learning & Change ({{< fa house-user >}})
+- Research Methods & Statistics
+- Social Psychology
+</details>
+
+<details>
+<summary>Institute of Human Movement Science: 6 professorships</summary>
+- Physical Education and Sports Pedagogy
+- Human Movement and Training Science
+- Health Sciences
+- Culture, Media and Society
+- Sport and Exercise Medicine
+- Theory and Practice of Exercise fields
+</details>
+:::
+
+::: {.incremental}
+- Institute of Psychology: 11 of 13 groups *regularly* conduct studies with human participants
+- Diverse **participants groups**: All age groups (including children), "special" groups (e.g., with congenital blindness, psychiatric disorders, etc.)
+- Diverse **experimental settings**: In-lab behavioral, groups, online, observational, MRI, EEG, fNIRS, etc.
+
+:::
+:::
+
+::: {.column width="40%"}
+![[Source: UHH | Baumann](https://assets.rrz.uni-hamburg.de/instance_assets/fakws/8339594/01-vmp5-2-733x414-e47907398e84a6ac96db292ad74f72d9132b95f9.jpg)](images/vmp5.jpg)
+:::
+::::
+
+::: {.notes}
+- 2200+ students (BSc & MSc in Psychology / Human Movement Science + Teaching degrees)
+:::
+
+---
+
+## Current participant databases
+
+::: {.fragment}
+### The status quo
+
+At the Institute of Psychology ...
+
+::: {.incremental}
+- 4 (of 11) groups have a participant database 
+  - mostly used for "special" participant groups (children, participants with blindness or psychiatric disorders, etc.)
+  - paper- or Excel-based with limited access by a few group members
+  - Developmental Psychology group receives contact details from the Resident's Registration Office
+  - various issues & concerns regarding the integration with Castellum (see discussion)
+- Everyone else: ad-hoc recruitment via [SONA]({{< var links.sona >}}), [Stellenwerk]({{< var links.stellenwerk >}}), [Prolific]({{< var links.prolific >}}) (online studies only) or advertisement on campus
+:::
+
+:::
+
+::: {.fragment}
+### The goal
+
+#### Excerpt from the [Digital Strategy]({{< var links.digital-strategy >}}) of the Faculty of Psychology and Human Movement Science (2022):
+
+> "*We optimize the digital recruitment of study participants.
+We have **access to a broad participant database** or platform through which participants can be **recruited according to specific criteria**.
+We **clarify the requirements** for a platform for online studies, **evaluate alternative systems** and take care of the **technical integration**.*"<br>
+:::
+
+# Castellum at UHH
+
+## How it started ...
+
+:::: columns
+::: {.column width="60%"}
+::: {.fragment}
+- New group: *"We will need a participant database."*
+- Other groups: *"Oh, we actually also need a participant database."*
+- Admin: *"Great, this is part of our Digital Strategy, let's do it!"*
+:::
+::: {.fragment}
+#### First steps
+:::
+::: {.incremental}
+- Query interest / needs / demands from all stakeholders
+- Understand current practices and existing solutions
+- Discussions in faculty meetings and university hallways
+- Initial consultations with data protection officer
+:::
+::: {.fragment}
+Eventually: First meeting about Castellum in December 2022 :sparkles:
+:::
+:::
+::: {.column width="40%"}
+![[Computer in Orange County offices, 1967 (CC BY 2.0) ](https://commons.wikimedia.org/wiki/File:Computer_in_County_of_Orange_offices,_1967.jpg)](images/computer-orange-county.jpg)
+:::
+::::
+
+## How it's going ...
+
+::: {.fragment}
+### Castellum Task Force
+:::
+::: {.incremental}
+- {{< fa user-group >}} 10 active members (8 scientific staff (4 PhDs, 3 PostDocs, 1 group leader), 2 IT staff)
+- {{< fa user-shield >}} On-going consultations with data protection officer
+- {{< fa comment-dots regular >}} **Meetings** for discussion & exchange (hybrid, monthly)
+- {{< fa display >}} **Project website** for documentation (see next slide)
+- {{< fa server >}} **Test installation** of Castellum on UHH servers
+- {{< fa envelopes-bulk >}} **Mailing list** for announcements
+- {{< fa brands slack regular >}} **Chat** for detailed internal communication
+- {{< fa file-lines regular >}} **Shared docs** to prepare whitepaper, internal documentation, etc.
+
+::: {.fragment}
+### Tasks (non-exhaustive list)
+::: {.incremental}
+- {{< fa square-check regular >}} Identified needs, concerns, expectations, ...
+- {{< fa square-check regular >}} Familiarized with Castellum using test installation
+- {{< fa square-minus regular >}} Distribute sub-tasks, collect and discuss insights
+- {{< fa square regular >}} Create user agreement, prepare data protection whitepaper, etc.
+- {{< fa square regular >}} Compliance with requirements by data protection officer
+- {{< fa square regular >}} Finalize implementation of automated sign-ups, bulk-upload of existing databases
+:::
+:::
+:::
+
+## Project Website
+
+{{< fa display >}} [{{< var links.castellum-uhh-website >}}]({{< var links.castellum-uhh-website >}}) (in German only)<br>
+{{< fa brands github >}} [{{< var links.castellum-uhh-github >}}]({{< var links.castellum-uhh-github >}})
+
+```{=html}
+<iframe width="100%" height="74%" src="{{< var links.castellum-uhh-website >}}" title="Castellum UHH Website"></iframe>
+```
+
+::: {.notes}
+- Collect information about the project in a central place
+- Access to meeting notes, timetable, contact details of task force members
+:::
+
+## Task Areas
+
+::: {.fragment}
+1. {{< fa object-group >}} Integration of existing databases
+1. {{< fa bullhorn >}} Initial recruitment initiative
+1. {{< fa gears >}} Setting up Castellum
+1. {{< fa users >}} Define roles & tasks of Castellum users
+1. {{< fa rectangle-list >}} Functionalities of Castellum
+1. {{< fa arrow-up-right-from-square >}} Integration with external applications
+:::
+
+![](images/tasks-spreadsheet.png)
+
+# Discussion
+
+## Challenges for the task force
+
+::: {.incremental}
+- Everyone understand how Castellum works and what it *currently* does (not) offer
+  - {{< fa notes-medical >}} Presentation and overview of Castellum with opportunity to ask questions
+  - {{< fa notes-medical >}} Collect resources in one central place (e.g., website)
+  - {{< fa notes-medical >}} Set-up a test-installation that is easy to access
+- Get all stakeholders on board and well-informed
+  - *"I have to discuss this with my group leader first."*
+  - *"I'll ask around in my group and give you feedback next time."* 
+- Diverse groups = diverse needs
+  - *"We will only use Castellum if we can easily recruit teams of participants."*
+- Castellum has to be significantly better than what a group is currently using
+- Diffusion of responsibility
+- Benefits of investing into a common resource
+- (Active) participation in the task force is an extra burden for (scientific, junior) staff
+:::
+
+::: {.notes}
+- embrace (the idea of) open-source
+:::
+
+## Example: Integration of existing participant databases and access
+
+::: {.incremental}
+- It took time and effort to build current participant database
+- Worries about free-riders
+- Worries that precious participants are going to be contacted too frequently
+  - How can access to certain participant groups be reserved for certain research groups?
+- Worries about legal aspects and data-privacy ("*Can we even share contact details from our existing database?*")
+- Unclear if participant consent allows transfer to Castellum
+- *"We have a working solution. What's our benefit of investing into Castellum?"*
+:::
+
+## Summary
+
+::: {.fragment}
+### Next steps
+:::
+::: {.incremental}
+- {{< fa square regular >}} Create user agreement, prepare data protection whitepaper, etc.
+- {{< fa square regular >}} Compliance with requirements by data protection officer
+- {{< fa square regular >}} Finalize implementation of automated sign-ups, bulk-upload of existing databases
+:::
+
+::: {.fragment}
+### Lessons learned (so far)
+:::
+::: {.incremental}
+- Involve data protection officer from the start
+- Inform *all* faculty members early and in detail
+- Have IT on board
+- Aim for implementation (or at least documentation) not (only) discussion
+:::
+
+## Thank you!
+
+:::: {.columns}
+::: {.column width="40%"}
+### Castelllum MPIB
+
+![](images/castellum-logo.png)
+
+- Castellum Team at MPIB
+- Tobias Bengfort & Karolina Mader
+:::
+::: {.column width="40%"}
+### Castellum UHH
+
+![](images/uhh-logo.png)
+
+- Castellum Task Force
+- Corinna Diercks (Data Protection Officer)
+- Aleksandra Pilpilides (Faculty Management)
+:::
+::::
 
 :::: {.columns}
 ::: {.column width="35%"}
 
-![](images/photo_wittkuhn_portrait.jpg)
+### Contact
 
 #### Dr. Lennart Wittkuhn
 
@@ -66,22 +313,74 @@ date: 09/25/23
 {{< fa brands twitter >}} [Twitter]({{< var twitter >}})
 :::
 
-::: {.column width="40%"}
+::: {.column width="65%"}
 
-{{< fa image >}} **Images:** [Scriberia with The Turing Way community](https://doi.org/10.5281/zenodo.3332807) (License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+### Slides
 
-:computer: **Slides:** Slides are publicly available at [{{< var website >}}]({{< var website >}})
+:computer: **Slides:** [{{< var website >}}]({{< var website >}})
 
-:package: **Software:** Reproducible slides build with [Quarto](https://quarto.org/) and deployed to [GitHub Pages](https://pages.github.com/) using [GitHub Actions](https://github.com/features/actions) (details in the [Quarto docs](https://quarto.org/docs/publishing/github-pages.html))
+{{< fa brands github >}} **Source:** [{{< var source >}}]({{< var source >}})
 
-{{< fa brands github >}} **Source:** Source code is available at [{{< var source >}}]({{< var source >}})
-
-:trackball: **DOI:** [10.5281/zenodo.8296951 ](https://zenodo.org/badge/latestdoi/682015737) (generated using GitHub + [Zenodo](https://zenodo.org/), see [GitHub docs](https://guides.github.com/activities/citable-code/))
-
-{{< fa scale-balanced >}} **License:** {{< var license-long >}}
+:package: **Software:** Slides built with [Quarto](https://quarto.org/), [GitHub Pages](https://pages.github.com/) & [GitHub Actions](https://github.com/features/actions)
 
 :speech_balloon: **Contact:** I welcome any feedback via [email]({{< var mailto >}}) or [GitHub issues]({{< var issues >}}).
 Thank you!
 :::
 
 ::::
+
+# Appendix
+
+## Task Areas
+
+### Integrating existing databases
+
+- Create **overview of existing participants databases**
+- Clarify **requirements for transferring existing participant data** between databases with data protection officer
+- Clarify how **large existing datasets** can be transferred to Castellum
+
+### Initial recruitment initiative
+
+- Create **recommendations for a recruitment campaign** (distribute flyers, place ads, etc.)
+- **Outline costs** of a recruitment campaign
+- Clarify **privacy requirements for server** to which new subjects will be directed to provide their basic information
+
+### Define participant characteristic in Castellum
+
+- Create overview of basic **information to be collected from all participants**
+- Create list of **information that is relevant for specific studies** (e.g. studies with children, fMRI, etc.)
+
+### Roles and tasks for Castellum users
+
+- **Roles:** Find out which roles will be necessary to maintain the database
+- **Responsibilities:** Determine areas of responsibility in Castellum (e.g., responsibility for data protection area)
+- **Certification** Establish rules for certification to work with Castellum
+- **Maintenance:** Establish rules for maintaining data in Castellum (e.g., collaborative maintenance by all users)
+- **Manual:** Create a manual for maintaining participant data in Castellum
+- **Training:** Draft a training program for Castellum train-the-trainer concept)
+- **Communication:** Clarify how Castellum users can exchange information with each other
+
+### Investigate functionalities of Castellum
+
+- **Access:** Clarify how access to specific groups of subjects can be restricted to user groups (e.g. ABs).
+- **Minors:** Clarify how to regulate access to data of minors in Castellum
+- **Export:** Clarify how subject data can be maintained and exported in Castellum in a code-based manner
+
+### Integration with external applications
+
+- Clarify how to link Castellum with **external calendars**
+- Clarify how Castellum can be linked with **SONA**
+- Create documentation on **how to integrate external applications** with Castellum
+- Clarify how to **exclude participants** who have already participated via another platform (e.g. SONA)
+
+## Integration with SONA
+
+battle against alternatives
+
+- prolific, SONA
+
+![https://www.sona-systems.com/](images/sona-systems.jpg)
+
+::: {.incremental}
+- limited to young, healthy participants (student population)
+:::

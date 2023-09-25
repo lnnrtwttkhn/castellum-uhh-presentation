@@ -171,7 +171,7 @@ Eventually: First meeting about Castellum in December 2022 :sparkles:
 ### Castellum Task Force
 :::
 ::: {.incremental}
-- {{< fa user-group >}} 10 active members (8 scientific staff (4 PhDs, 3 PostDocs, 1 PI), 2 IT staff)
+- {{< fa user-group >}} 10 active members (8 scientific staff (4 PhDs, 3 PostDocs, 1 group leader), 2 IT staff)
 - {{< fa user-shield >}} On-going consultations with data protection officer
 - {{< fa comment-dots regular >}} **Meetings** for discussion & exchange (hybrid, monthly)
 - {{< fa display >}} **Project website** for documentation (see next slide)
@@ -210,12 +210,12 @@ Eventually: First meeting about Castellum in December 2022 :sparkles:
 ## Task Areas
 
 ::: {.fragment}
-1. Integration with existing databases
-1. Initial recruitment initiative
-1. Setting up Castellum
-1. Roles & tasks of Castellum users
-1. Functionalities of Castellum
-1. Integration with external applications
+1. {{< fa object-group >}} Integration of existing databases
+1. {{< fa bullhorn >}} Initial recruitment initiative
+1. {{< fa gears >}} Setting up Castellum
+1. {{< fa users >}} Define roles & tasks of Castellum users
+1. {{< fa rectangle-list >}} Functionalities of Castellum
+1. {{< fa arrow-up-right-from-square >}} Integration with external applications
 :::
 
 ![](images/tasks-spreadsheet.png)
@@ -225,14 +225,17 @@ Eventually: First meeting about Castellum in December 2022 :sparkles:
 ## Challenges for the task force
 
 ::: {.incremental}
-- get everyone to understand how Castellum works and what it *currently* does (not) offer
-- get all stakeholders on board and well-informed
-  - *"I have to discuss this with my PI first."*
+- Everyone understand how Castellum works and what it *currently* does (not) offer
+  - {{< fa notes-medical >}} Presentation and overview of Castellum with opportunity to ask questions
+  - {{< fa notes-medical >}} Collect resources in one central place (e.g., website)
+  - {{< fa notes-medical >}} Set-up a test-installation that is easy to access
+- Get all stakeholders on board and well-informed
+  - *"I have to discuss this with my group leader first."*
   - *"I'll ask around in my group and give you feedback next time."* 
-- diverse groups = diverse needs
+- Diverse groups = diverse needs
   - *"We will only use Castellun if we can easily recruit teams of participants."*
 - Castellum has to be significantly better than whatever a group is using now
-- diffusion of responsibility
+- Diffusion of responsibility
 - (Personal) benefits from investing into a common resource
 - (active) participation in the task force is an extra burden for (scientific, junior) staff
 :::

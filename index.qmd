@@ -7,6 +7,7 @@ subtitle: |
   [{{< fa brands github >}} Source]({{< var source >}})
   
   {{< var license-badge >}}
+  {{< var doi-badge >}}
 date: 09/25/23
 ---
 

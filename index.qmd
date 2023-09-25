@@ -233,11 +233,11 @@ Eventually: First meeting about Castellum in December 2022 :sparkles:
   - *"I have to discuss this with my group leader first."*
   - *"I'll ask around in my group and give you feedback next time."* 
 - Diverse groups = diverse needs
-  - *"We will only use Castellun if we can easily recruit teams of participants."*
-- Castellum has to be significantly better than whatever a group is using now
+  - *"We will only use Castellum if we can easily recruit teams of participants."*
+- Castellum has to be significantly better than what a group is currently using
 - Diffusion of responsibility
-- (Personal) benefits from investing into a common resource
-- (active) participation in the task force is an extra burden for (scientific, junior) staff
+- Benefits of investing into a common resource
+- (Active) participation in the task force is an extra burden for (scientific, junior) staff
 :::
 
 ::: {.notes}
@@ -346,7 +346,7 @@ Thank you!
 - **Outline costs** of a recruitment campaign
 - Clarify **privacy requirements for server** to which new subjects will be directed to provide their basic information
 
-### Define participant characteristic in Castellun
+### Define participant characteristic in Castellum
 
 - Create overview of basic **information to be collected from all participants**
 - Create list of **information that is relevant for specific studies** (e.g. studies with children, fMRI, etc.)
@@ -361,7 +361,7 @@ Thank you!
 - **Training:** Draft a training program for Castellum train-the-trainer concept)
 - **Communication:** Clarify how Castellum users can exchange information with each other
 
-### Investigate functionalities of Castellunm
+### Investigate functionalities of Castellum
 
 - **Access:** Clarify how access to specific groups of subjects can be restricted to user groups (e.g. ABs).
 - **Minors:** Clarify how to regulate access to data of minors in Castellum

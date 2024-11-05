@@ -159,7 +159,7 @@ We **clarify the requirements** for a platform for online studies, **evaluate al
 
 ::: {.fragment}
 
-### Now: Preparing institute-wide roll-out
+### Now: *Actually* rolling-out Castellum institute-wide
 
 - {{< fa square regular >}} Agreement on shared use of Castellum based on task force recommendations
 - {{< fa square regular >}} Finalize and agree on Data Protection Whitepaper

@@ -1,1 +1,1 @@
-Sitemap: https://github.com/lnnrtwttkhn/castellum-uhh-presentation/sitemap.xml
+Sitemap: https://lnnrtwttkhn.github.io/castellum-uhh-presentation/sitemap.xml

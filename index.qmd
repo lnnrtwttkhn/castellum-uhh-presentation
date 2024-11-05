@@ -3,8 +3,8 @@ title: "{{< var title >}}"
 subtitle: |
   {{< var subtitle >}}
   
-  [{{< fa display >}} Slides]({{< var website >}}) |
-  [{{< fa brands github >}} Source]({{< var source >}})
+  [{{< fa display >}} Slides](https://lennartwittkuhn.com/castellum-uhh-presentation/) |
+  [{{< fa brands github >}} Source](https://github.com/lnnrtwttkhn/castellum-uhh-presentation)
   
   {{< var license-badge >}}
   {{< var doi-badge >}}

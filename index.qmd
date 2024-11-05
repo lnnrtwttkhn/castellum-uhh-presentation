@@ -8,7 +8,7 @@ subtitle: |
   
   {{< var license-badge >}}
   {{< var doi-badge >}}
-date: 09/25/23
+date: 11/05/24
 ---
 
 ## About
@@ -137,7 +137,185 @@ We have **access to a broad participant database** or platform through which par
 We **clarify the requirements** for a platform for online studies, **evaluate alternative systems** and take care of the **technical integration**.*"<br>
 :::
 
-# Castellum at UHH
+# Update: Castellum at UHH
+
+## Summary
+
+::: {.fragment}
+
+### Previously: Task force prepared roll-out of Castellum
+
+::: {.incremental}
+- {{< fa square-check regular >}} Tasks force set up to plan roll-out of Castellum (see [https://lennartwittkuhn.com/castellum-uhh/](https://lennartwittkuhn.com/castellum-uhh/))
+    - Monthly meetings from June 2023 to October 2023
+    - Discussions and working (sub-)groups around the roll-out of Castellum
+    - Examples: *"Who gets access to Castellum?"* *"How are users trained?"* *"What are the rules (e.g., for database maitanence)?"* *"Who supports recruitment campaigns?"* *"Who is responsible for data protection?"*
+    - Result: First draft of Data Protection Whitepaper and general recommendations for shared use
+- {{< fa square-check regular >}} Task force concluded work with recommendations / ideas for institute-wide use of Castellum
+- {{< fa square-check regular >}} Technical setup in place
+:::
+
+:::
+
+::: {.fragment}
+
+### Now: Preparing institute-wide roll-out
+
+- {{< fa square regular >}} Agreement on shared use of Castellum based on task force recommendations
+- {{< fa square regular >}} Finalize and agree on Data Protection Whitepaper
+- {{< fa square regular >}} Assign roles and responsibilities for long-term maintenance
+
+:::
+
+::: {.fragment}
+
+*for work-in-progress User Agreement, Data Protection Whitepaper and Training Concept, see:*
+
+*[https://lennartwittkuhn.com/castellum-uhh-docs/](https://lennartwittkuhn.com/castellum-uhh-docs/)*
+
+:::
+
+## Current state of roll-out of Castellum at UHH
+
+::: {.fragment}
+***bold font** = current focus*
+:::
+
+::: {.fragment}
+
+### Technical
+
+- {{< fa square-check regular >}} Production instance running
+- {{< fa square-check regular >}} Test instance for updates and experimentation running
+- {{< fa square-check regular >}} Website for independent sign-up of participants live and connected to production instance
+- {{< fa square regular >}} Fixing minor bugs and server hiccups
+
+:::
+
+::: {.fragment}
+
+### Users
+
+- {{< fa square-check regular >}} Production instance piloted within research group
+- {{< fa square regular >}} **Refining onboarding and administrative procedures**
+
+:::
+
+::: {.fragment}
+
+### Process
+
+- {{< fa square-check regular >}} First draft of data protection whitepaper prepared (see [https://lennartwittkuhn.com/castellum-uhh-docs/](https://lennartwittkuhn.com/castellum-uhh-docs/))
+- {{< fa square regular >}} Draft of user agreement in preparation (see [https://lennartwittkuhn.com/castellum-uhh-docs/](https://lennartwittkuhn.com/castellum-uhh-docs/))
+- {{< fa square regular >}} Compliance with requirements by data protection officer
+- {{< fa square regular >}} **Preparing institute-wide roll-out**
+
+:::
+
+## Discussion
+
+::: {.fragment}
+::: {.r-fit-text}
+Institute-wide roll-out: **Who does it?**
+:::
+:::
+
+::: {.incremental}
+- Who decides? Who takes responsibility?
+- Institutional process are slow and other issues take priority
+- Need is not great enough?
+  - Recruiting young + healthy participants is easy
+  - There are "competitors"
+    - SONA + test subjects hours (participants "for free")
+    - Stellenwerk (popular website for student jobs)
+    - Flyers in the mensa
+  - Accustomed to suboptimal processes?
+:::
+
+::: {.fragment}
+... stay tuned!
+:::
+
+## Community Goal: Process Documentation
+
+::: {.fragment}
+::: {.r-fit-text}
+> *"Software alone does not guarantee data protection.*
+*It (also) depends on the accompanying organizational processes."*
+-- Data Protection Officer at University of Hamburg
+:::
+:::
+
+::::: {.fragment}
+:::: columns
+::: {.column width="50%"}
+### Process documentation
+
+- What is needed to **roll-out** Castellum? 
+- Addresses a different target group!
+- Guides the work of task forces, staff in management , etc.
+- Our work-in-progress draft [here](https://lennartwittkuhn.com/castellum-uhh-docs/)
+
+:::
+::: {.column width="50%"}
+![](images/documentations-overview.png)
+:::
+::::
+:::::
+
+## Thank you!
+
+:::: {.columns}
+::: {.column width="40%"}
+### Castelllum MPIB
+
+![](images/castellum-logo.png)
+
+- Castellum Team at MPIB
+- Tobias Bengfort & Karolina Mader
+- Maike Kleemeyer
+:::
+::: {.column width="40%"}
+### Castellum UHH
+
+![](images/uhh-logo.png){width="75%"}
+
+- Castellum Task Force
+- Corinna Diercks (Data Protection Officer)
+- Aleksandra Pilpilides (Faculty Management)
+:::
+::::
+
+:::: {.columns}
+::: {.column width="35%"}
+
+### Contact
+
+#### Dr. Lennart Wittkuhn
+
+{{< fa envelope >}} [{{< var email >}}]({{< var mailto >}})<br>
+{{< fa home-user >}} [{{< var homepage >}}]({{< var homepage >}})<br>
+{{< fa brands github >}} [GitHub]({{< var github >}}) 
+{{< fa brands mastodon >}} [Mastodon]({{< var mastodon >}}) 
+:::
+
+::: {.column width="65%"}
+
+### Slides
+
+:computer: **Slides:** [{{< var website >}}]({{< var website >}})
+
+{{< fa brands github >}} **Source:** [{{< var source >}}]({{< var source >}})
+
+:package: **Software:** Slides built with [Quarto](https://quarto.org/), [GitHub Pages](https://pages.github.com/) & [GitHub Actions](https://github.com/features/actions)
+
+:speech_balloon: **Contact:** I welcome any feedback via [email]({{< var mailto >}}) or [GitHub issues]({{< var issues >}}).
+Thank you!
+:::
+
+::::
+
+# Appendix: Community Meeting Sep 2023
 
 ## How it started ...
 
@@ -277,58 +455,6 @@ Eventually: First meeting about Castellum in December 2022 :sparkles:
 - Have IT on board
 - Aim for implementation (or at least documentation) not (only) discussion
 :::
-
-## Thank you!
-
-:::: {.columns}
-::: {.column width="40%"}
-### Castelllum MPIB
-
-![](images/castellum-logo.png)
-
-- Castellum Team at MPIB
-- Tobias Bengfort & Karolina Mader
-:::
-::: {.column width="40%"}
-### Castellum UHH
-
-![](images/uhh-logo.png)
-
-- Castellum Task Force
-- Corinna Diercks (Data Protection Officer)
-- Aleksandra Pilpilides (Faculty Management)
-:::
-::::
-
-:::: {.columns}
-::: {.column width="35%"}
-
-### Contact
-
-#### Dr. Lennart Wittkuhn
-
-{{< fa envelope >}} [{{< var email >}}]({{< var mailto >}})<br>
-{{< fa home-user >}} [{{< var homepage >}}]({{< var homepage >}})<br>
-{{< fa brands github >}} [GitHub]({{< var github >}}) 
-{{< fa brands mastodon >}} [Mastodon]({{< var mastodon >}}) 
-{{< fa brands twitter >}} [Twitter]({{< var twitter >}})
-:::
-
-::: {.column width="65%"}
-
-### Slides
-
-:computer: **Slides:** [{{< var website >}}]({{< var website >}})
-
-{{< fa brands github >}} **Source:** [{{< var source >}}]({{< var source >}})
-
-:package: **Software:** Slides built with [Quarto](https://quarto.org/), [GitHub Pages](https://pages.github.com/) & [GitHub Actions](https://github.com/features/actions)
-
-:speech_balloon: **Contact:** I welcome any feedback via [email]({{< var mailto >}}) or [GitHub issues]({{< var issues >}}).
-Thank you!
-:::
-
-::::
 
 # Appendix
 

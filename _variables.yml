@@ -1,5 +1,5 @@
 title: "Castellum at University of Hamburg"
-subtitle: "Castellum Community Meeting"
+subtitle: "Castellum Community Meeting (v2.0)"
 project-name: "castellum-uhh-presentation"
 footer: "{{< var title >}}"
 source: "https://github.com/lnnrtwttkhn/{{< var project-name >}}"
